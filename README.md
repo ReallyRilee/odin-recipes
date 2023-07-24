@@ -1,1 +1,1 @@
-# odin-recipes
+This is a website created by Samantha Schwarz during the Odin Project course. This is the first project in the course and will consist of an index page with recipe links. The purpose of this project is to demonstrate the HTML and Git knowledge learned during the course. 
